@@ -15,9 +15,9 @@ export default [
         link: 'https://www.google.com/', 
     },
     {
-        title: 'AI Summarizer',
+        title: 'VentureMind',
         imgUrl: catImg,
         stack: ['React', 'Tailwind', 'OpenAI API'],
-        link: 'https://www.google.com/', 
+        link: 'https://venturemind.netlify.app/', 
     },
 ]
