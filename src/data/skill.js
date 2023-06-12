@@ -12,6 +12,6 @@ export default [
     {
         id: 2,
         title: 'Other',
-        skills: ['Git', 'Github', 'Eclipse', 'VS Code'],
+        skills: ['Git', 'Github', 'Eclipse', 'VS Code', 'Render', 'Netlify'],
     },
 ]
