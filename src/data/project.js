@@ -1,5 +1,6 @@
 import chessGameImg from '../assets/chessGame.png'
 import catImg from '../assets/cat.jpeg'
+import ventureImg from '../assets/venture.png'
 
 export default [
     {
@@ -16,7 +17,7 @@ export default [
     },
     {
         title: 'VentureMind',
-        imgUrl: catImg,
+        imgUrl: ventureImg,
         stack: ['React', 'Tailwind', 'OpenAI API'],
         link: 'https://venturemind.netlify.app/', 
     },
