@@ -1,6 +1,7 @@
 import chessGameImg from '../assets/chessGame.png'
 import catImg from '../assets/cat.jpeg'
 import ventureImg from '../assets/venture.png'
+import recipeImg from '../assets/recipe.png'
 
 export default [
     {
@@ -11,7 +12,7 @@ export default [
     },
     {
         title: 'Recipe App',
-        imgUrl: catImg,
+        imgUrl: recipeImg,
         stack: ['MongoDB', 'Express', 'React', 'Node'],
         link: 'https://www.google.com/', 
     },
